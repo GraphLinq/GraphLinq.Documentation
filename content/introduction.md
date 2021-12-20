@@ -1,12 +1,12 @@
 ---
 title: "GraphLinq Introduction"
 metaTitle: "GraphLinq Docs - Introduction"
-metaDescription: "The automation of decentralized datas monitorization and external executions over multi-chains applications. "
+metaDescription: "The automation of decentralized data, monitoring, and external executions over multi-chain applications. "
 ---
 
-The goal of GraphLinq is to provide a way to interact with the blockchain with any connected systems as effortlessly as possible and without knowing how to code.
+The goal of GraphLinq is to provide a way to interact with the blockchain and with any connected system as effortlessly as possible, all without knowing how to code.
 
-Setting up bots, or basic scripted logic, arbitrages on DEX or trading on a centralized exchange, we build the tools that help the decentralization adoption, every business have a logic that can be automated, we make it possible through monitoring and execution over multi-blockchains data.
+Setting up bots, or basic scripted logic, arbitrages on DEX or trading on a centralized exchange, we build the tools that help the decentralization adoption, every business has logic that can be automated, we make it possible through monitoring and execution over multi-blockchains data.
 
 In this documentation, you will find the basic knowledge of the GraphLinq Protocol and will get a better idea of how things work.
 
@@ -22,8 +22,8 @@ A graph is a set of nodes attached that automate on-chain and off-chain tasks. U
 Once you're up and ready to deploy your graph, you can use the dashboard interface to upload it and execute it on the protocol.
 
 
-# How can i run graphs on the Engine? Do i need a Wallet?
-Nodes have a cost of executions, which is calculated as GAS, you need to register with your ETH wallet on the dashboard to sign a transaction to authentify you on our Engine and getting a session.
+# How can I run graphs on the Engine? Do I need a Wallet?
+Nodes have a cost of execution, which is calculated as GAS, you need to register with your ETH wallet on the dashboard to sign a transaction to authenticate you on our Engine and get a session.
 
 Once you are connected you need to deposit the wallet smart-contract to consume gas fees from the execution of your graph, it works like a cloud computing service. The fees will be taken from the smart-contract when you decide to withdraw your balance.
 
@@ -34,21 +34,8 @@ This means that you can launch on the Engine a set of blocks that automate a tas
 
 # Our founders, Behind GraphLinq
 At GraphLinq, we believe that an extraordinary team focused on the same objectives can build and change the future of the crypto-market, that is our founder's missions,
-helping the blockchains being more accessible to everyone.
+helping blockchains be more accessible to everyone.
 
-<fieldset>
-<div style="padding:50px;margin:auto;text-align:center;padding-bottom:30px;">
-<p><h4>Nicolas Martins</h4><br/>
-CTO, Co-Founder</p>
-<img src="https://graphlinq.io/docs-images/nicolas.png"
-     style="border-radius:100px;margin-bottom:30px;" />
-     
-<p>Connect on <a target="_blank" href="https://www.linkedin.com/in/nicolas-martins-b73569a9/">LinkedIn</a></p>
-<div class="max-width:350px;display:block;text-align:justify;">With a strong background in science and software engineering with +5 years of experience, Nicolas has a global understanding of technical matters within the blockchain world and infrastructure. <br/> He loves to implement new technology and solve technical challenges. After several years in the IT domain, he struggled with automation issues in his job, understood that a lot of tasks should not be time-consuming and could be scripted.
-<p>Located in <i>France, Paris.</i></p></div>
-</div>
-</fieldset>
-<br/>
 <fieldset>
 <div style="padding:50px;margin:auto;text-align:center;">
 <p><h4>Frederick Marinho</h4><br/>
@@ -58,7 +45,7 @@ CEO, Co-Founder</p>
      
 <p>Connect on <a target="_blank" href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9rick-marinho-4ba80761/">LinkedIn</a></p>
 <div class="max-width:350px;display:block;text-align:justify;">After many years of investing in the cryptocurrency market, Frederick participated in several blockchain projects and decided to start a new entrepreneurship journey.<br/><br/>
-As a software engineer and a blockchain passionated trader, he saw the potential in the manipulation of blockchain data and figured out that there were many needs for a new innovative project to emerge.
+As a software engineer and a passionate blockchain trader, he saw the potential in the manipulation of blockchain data and figured out that there were many needs for a new innovative project to emerge.
 <p>Located in <i>France, Paris.</i></p></div>
 </div>
 </fieldset>
@@ -81,13 +68,13 @@ Marketing Executive</p>
 <fieldset>
 <div style="padding:50px;margin:auto;text-align:center;">
 <p><h4>John R. Bussiculo (known as jr00t)</h4><br/>
-Software Engineer</p>
+CTO </p>
 <img src="https://graphlinq.io/docs-images/john.jpg"
      style="border-radius:100px;margin-bottom:30px;max-width:200px;" />
      
 <p>Connect on <a target="_blank" href="https://www.linkedin.com/in/john-r-bussiculo-92361b1b3/">LinkedIn</a><br/>
-Check out John <a target="_blank" href="https://github.com/jrbgit">Github repositories</a></p>
-<div class="max-width:350px;display:block;text-align:justify;">John is a Full-Stack Developer for the GraphLinq Analytics Platform. His passion for new technologies and blockchain projects is always evolving to meet the changing demands of the cryptocurrency industry.<br/>
+Check out John's <a target="_blank" href="https://github.com/jrbgit">Github repositories</a></p>
+<div class="max-width:350px;display:block;text-align:justify;">John is a Full-Stack Developer and Software Engineer for the GraphLinq Platform. His passion for new technologies and blockchain projects is always evolving to meet the changing demands of the cryptocurrency industry.<br/>
 He enjoys teaching others as well as speaking to a wide audience about the advantages of blockchains and new projects.
 <p>Located in <i>New York, US.</i></p></div>
 </div>
@@ -104,7 +91,7 @@ Chief Marketing Officer</p>
      
 <p>Connect on <a target="_blank" href="https://www.linkedin.com/in/therishabhanand/">LinkedIn</a><br/></p>
 <div class="max-width:350px;display:block;text-align:justify;">One of the most proven Blockchain & Cryptocurrency evangelist in India. With vast experience and knowledge in the technology, blockchain, growth & investment sector,<br/>
-He advise in building companies, communities, fundraising, growth etc. 
+He advises in building companies, communities, fundraising, growth etc. 
 <p>Located in <i>Delhi, India.</i></p></div>
 </div>
 </fieldset>
@@ -113,13 +100,13 @@ He advise in building companies, communities, fundraising, growth etc.
 <fieldset>
 <div style="padding:50px;margin:auto;text-align:center;">
 <p><h4>Hugo Malatrait</h4><br/>
-Software engineer</p>
+Lead Front End Software Engineer</p>
 <img src="https://graphlinq.io/docs-images/hugo.jpg"
      style="border-radius:100px;margin-bottom:30px;max-width:200px;" />
      
 <p>Connect on <a target="_blank" href="https://www.linkedin.com/in/hugo-malatrait-9618b7135/">LinkedIn</a><br/>
-Check out Hugo <a target="_blank" href="https://hugomalatrait.com/">online portfolio</a></p>
-<div class="max-width:350px;display:block;text-align:justify;">Hugo is the front-end developer of the GraphLinq Interface, passionate about computer sciences innovation, always up for learning and practicing new things. <br/>Interested in domains like networking, cybersecurity, video games, streaming platform, cloud computing, blockchains, and decentralization.
+Check out Hugo's <a target="_blank" href="https://hugomalatrait.com/">online portfolio</a></p>
+<div class="max-width:350px;display:block;text-align:justify;">Hugo is the front-end developer of the GraphLinq Interface, passionate about computer sciences innovation, always up for learning and practicing new things. <br/>Interested in domains like networking, cybersecurity, video games, streaming platforms, cloud computing, blockchains, and decentralization.
 <p>Located in <i>France, Paris.</i></p></div>
 </div>
 </fieldset>
@@ -130,13 +117,13 @@ Check out Hugo <a target="_blank" href="https://hugomalatrait.com/">online portf
 <div style="padding:50px;margin:auto;text-align:center;">
 <p><h4>
 Saad El Madafri</h4><br/>
-Back-end Software engineer</p>
+Back-end Software Engineer</p>
 <img src="https://graphlinq.io/docs-images/saad.jpg"
      style="border-radius:100px;margin-bottom:30px;max-width:200px;" />
      
 <p>Connect on <a target="_blank" href="https://www.linkedin.com/in/saad-el-madafri-4ab208190/">LinkedIn</a><br/>
 Check out Saad <a target="_blank" href="https://github.com/yamidevs">Github repositories</a></p>
-<div class="max-width:350px;display:block;text-align:justify;">Saad is a talented Back-end Software Engineer for the GraphLinq engine and protocol. He's a technology enthusiast enthousiast, his range of skills go from deep learning to blockchain through computer graphics and cryptography.<br/> He loves new challenges and is always eager to learn new things and always stays at a state-of-art level
+<div class="max-width:350px;display:block;text-align:justify;">Saad is a talented Back-end Software Engineer for the GraphLinq engine and protocol. He's a technology enthusiast enthousiast, his range of skills go from deep learning to blockchain through computer graphics and cryptography.<br/> He loves new challenges, is always eager to learn new things, and always stays at a state-of-the-art level.
 <p>Located in <i>France, Paris.</i></p></div>
 </div>
 </fieldset>

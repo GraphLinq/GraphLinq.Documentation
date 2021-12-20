@@ -4,14 +4,15 @@ metaTitle: "GraphLinq Docs - Home"
 metaDescription: "The automation of decentralized datas monitorization and external executions over multi-chains applications."
 ---
 
-The automation of decentralized datas monitorization and external executions over multi-chains applications.
+The automation of decentralized data, monitoring, and external executions over multi-chain applications.
 
 <hr/>
 
 
 Graph IDE:  <div style="float:right;"><a href="https://ide.graphlinq.io">https://ide.graphlinq.io</a></div><br/>
-Only website:  <div style="float:right;"><a href="https://graphlinq.io">https://graphlinq.io</a></div><br/>
+Main Website:  <div style="float:right;"><a href="https://graphlinq.io">https://graphlinq.io</a></div><br/>
 Dashboard Interface:  <div style="float:right;"><a href="https://app.graphlinq.io">https://app.graphlinq.io</a></div><br/>
+Marketplace: <div style="float:right;"><a href="https://marketplace.graphlinq.io">https://marketplace.graphlinq.io</a></div><br/>
 
 
 <h2>ETHEREUM</h2>
