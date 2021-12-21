@@ -52,6 +52,20 @@ As a software engineer and a passionate blockchain trader, he saw the potential 
 <br/>
 
 <fieldset>
+<div style="padding:50px;margin:auto;text-align:center;padding-bottom:30px;">
+<p><h4>Nicolas Martins</h4><br/>
+Project Advisor, Co-Founder</p>
+<img src="https://graphlinq.io/docs-images/nicolas.png"
+     style="border-radius:100px;margin-bottom:30px;" />
+    
+<p>Connect on <a target="_blank" href="https://www.linkedin.com/in/nicolas-martins-b73569a9/">LinkedIn</a></p>
+<div class="max-width:350px;display:block;text-align:justify;">With a strong background in science and software engineering along with over 5 years of experience, Nicolas has a global understanding of technical matters within the blockchain world and infrastructure. <br/>He loves to implement new technology and solve technical challenges. After several years in the IT domain, he saw how even his own company struggled with automation. He quickly understood that a lot of tasks should not be time-consuming and could be scripted.
+<p>Located in <i>France, Paris.</i></p></div>
+</div>
+</fieldset>
+<br/>
+
+<fieldset>
 <div style="padding:50px;margin:auto;text-align:center;">
 <p><h4>Saurav Devrani</h4><br/>
 Marketing Executive</p>
