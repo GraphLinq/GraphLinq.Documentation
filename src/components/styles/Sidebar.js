@@ -1,7 +1,6 @@
 import styled from '@emotion/styled';
 
 export const Sidebar = styled('aside')`
-  
   width: 100%;
   border-right: 1px solid #ede7f3;
   height: 100vh;
@@ -73,13 +72,13 @@ export const ListItem = styled(({ className, active, level, ...props }) => {
     position: relative;
 
     &:hover {
-      color: hsla(0,0%,100%,.8) !important;
+      color: #ff286f !important;
     }
 
     ${props =>
       props.active &&
       `
-      color: hsla(0,0%,100%,.8);
+      color: #ff286f;
       border-color: rgb(230,236,241) !important;
       border-style: solid none solid solid;
       border-width: 1px 0px 1px 1px;

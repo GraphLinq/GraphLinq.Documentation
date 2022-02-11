@@ -1,4 +1,4 @@
-import { css } from '@emotion/core';
+import { css } from '@emotion/react';
 
 export const baseStyles = css`
   @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
@@ -76,7 +76,7 @@ export const baseStyles = css`
     border-radius: 1px;
     margin: 0 auto;
     margin-top: 4px;
-    background-color: #001934;
+    background-color: #0e0c1c;
   }
   .navBarToggle .iconBar:first-child {
     margin-top: 0px;
@@ -257,7 +257,7 @@ export const baseStyles = css`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #001934;
+    background-color: #0e0c1c;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -318,9 +318,9 @@ export const baseStyles = css`
   }
   pre {
     border: 0 !important;
-    background-color: rgb(30, 30, 30); /* !important; */
+    background-color: rgb(245, 247, 249); /* !important; */
   }
-  
+
   blockquote {
     color: rgb(116, 129, 141);
     margin: 0px 0px 24px;
@@ -374,7 +374,7 @@ export const baseStyles = css`
     font-family: 'Poppins';
     font-size: 18px;
     font-weight: 600;
-    color: #001934;
+    color: #0e0c1c;
     display: flex;
     align-items: center;
   }
@@ -384,7 +384,7 @@ export const baseStyles = css`
   }
 
   .sidebarTitle a {
-    color: #001934;
+    color: #0e0c1c;
   }
 
   .greenCircle {
@@ -450,7 +450,7 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #003268;
+    background-color: #ff286f;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
@@ -470,7 +470,7 @@ export const baseStyles = css`
   }
 
   .sideBarUL .item > a {
-    color:#f7f7f7;
+    color: #ff286f;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -508,7 +508,7 @@ export const baseStyles = css`
     border-color: rgb(230, 236, 241) !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    background-color: #1ed3c6 !important;
+    background-color: #ff286f !important;
     color: #fff;
   }
 
@@ -734,13 +734,13 @@ export const baseStyles = css`
 
   @media (max-width: 767px) {
     .formElement svg path {
-      fill: #001934;
+      fill: #0e0c1c;
     }
     .visibleMobileView {
       display: block !important;
     }
     .searchInput {
-      color: #001934;
+      color: #0e0c1c;
     }
     .socialWrapper {
       position: absolute;

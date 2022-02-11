@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import styled from '@emotion/styled';
 import { MDXProvider } from '@mdx-js/react';
 
@@ -18,7 +18,7 @@ const Wrapper = styled('div')`
   }
 
   .sideBarUL .item > a:hover {
-    background-color: #001933d1;
+    background-color: #ff286f;
     color: #fff !important;
 
     /* background: #F8F8F8 */
@@ -55,7 +55,6 @@ const MaxWidth = styled('div')`
 `;
 
 const LeftSideBarWidth = styled('div')`
-  background: #001933;
   width: 298px;
 `;
 

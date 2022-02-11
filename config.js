@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://graphlinq.io/assets/logo_graphlinq.png',
+    logo: 'https://graphlinq.io/template/img/logo.svg',
     logoLink: 'https://docs.graphlinq.io',
     title:
     "<a href='https://docs.graphlinq.io'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
@@ -21,7 +21,7 @@ const config = {
 		    </a>
 		  </li>
 			<li>
-		    <a href="https://discord.gg/k3tqWzub" target="_blank" rel="noopener">
+		    <a href="https://discord.com/invite/6vPT4eet8G" target="_blank" rel="noopener">
 		      <div class="discordBtn">
 		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/discord-brands-block.svg' alt={'Discord'}/>
 		      </div>
@@ -29,7 +29,7 @@ const config = {
 		  </li>`,
     links: [{ text: '', link: '' }],
     search: {
-      enabled: true,
+      enabled: false,
       indexName: '',
       algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
       algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
@@ -49,18 +49,20 @@ const config = {
       '/dashboard'
     ],
     collapsedNav: [
-      '/', // add trailing slash if enabled above
+      '/codeblock', // add trailing slash if enabled above
     ],
     links: [{ text: 'GraphLinq Interface', link: 'https://graphlinq.io' }, { text: 'Protocol WhitePaper', link: 'https://graphlinq.io/whitepaper.pdf' },
     { text: 'Github', link: 'https://github.com/GraphLinq' }],
     frontline: false,
     ignoreIndex: true,
-    title:"",
+    title:
+      "<a href='https://graphlinq.io'>Home</a><div class='greenCircle'></div><a href='https://app.graphlinq.io'>App</a><div class='greenCircle'></div><a href='https://ide.graphlinq.io'>IDE</a>",
   },
   siteMetadata: {
     title: 'GraphLinq Documentation',
     description: 'GraphLinq Engine Protocol full documentation',
     ogImage: null,
+    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
