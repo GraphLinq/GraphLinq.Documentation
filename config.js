@@ -9,7 +9,7 @@ const config = {
     logo: 'https://graphlinq.io/template/img/logo.svg',
     logoLink: 'https://docs.graphlinq.io',
     title:
-    "<a href='https://docs.graphlinq.io'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
+      "<a href='https://docs.graphlinq.io'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
     githubUrl: 'https://github.com/GraphLinq/GraphLinq',
     helpUrl: '',
     tweetText: '',
@@ -38,7 +38,6 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-
       '/introduction', // add trailing slash if enabled above
       '/roadmap',
       '/wallet',
@@ -48,17 +47,19 @@ const config = {
       '/blockTypes',
       '/graph',
       '/engine',
-      '/codeblock'
+      '/codeblock',
     ],
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'GraphLinq Interface', link: 'https://app.graphlinq.io' }, { text: 'Protocol LitePaper', link: 'https://graphlinq.io/litepaper.pdf' },
-    { text: 'Github', link: 'https://github.com/GraphLinq' }],
+    links: [
+      { text: 'GraphLinq Interface', link: 'https://app.graphlinq.io' },
+      { text: 'Protocol LitePaper', link: 'https://graphlinq.io/litepaper.pdf' },
+      { text: 'Github', link: 'https://github.com/GraphLinq' },
+    ],
     frontline: false,
     ignoreIndex: true,
-    title:
-      "",
+    title: '',
   },
   siteMetadata: {
     title: 'GraphLinq Documentation',

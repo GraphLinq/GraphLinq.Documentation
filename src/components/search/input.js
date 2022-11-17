@@ -13,7 +13,7 @@ import { css } from '@emotion/react';
 //  left: 15px;
 //  color: #2fd2c5;
 //`;
-const SearchIcon = "";
+const SearchIcon = '';
 
 const focus = (props) => css`
   background: white;
