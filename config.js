@@ -21,9 +21,9 @@ const config = {
 		    </a>
 		  </li>
 			<li>
-		    <a href="https://discord.com/invite/6vPT4eet8G" target="_blank" rel="noopener">
+		    <a href="https://t.me/graphlinq" target="_blank" rel="noopener">
 		      <div class="discordBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/discord-brands-block.svg' alt={'Discord'}/>
+            <img src='https://betatest.jr00t.com/telegram-brands-block.svg' alt={'Telegram'}/>
 		      </div>
 		    </a>
 		  </li>`,
@@ -42,28 +42,30 @@ const config = {
       '/introduction', // add trailing slash if enabled above
       '/roadmap',
       '/wallet',
+      '/token',
+      '/dashboard',
+      '/blocks',
+      '/blockTypes',
       '/graph',
       '/engine',
-      '/token',
-      '/blocks',
-      '/dashboard'
+      '/codeblock'
     ],
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'GraphLinq Interface', link: 'https://graphlinq.io' }, { text: 'Protocol WhitePaper', link: 'https://graphlinq.io/whitepaper.pdf' },
+    links: [{ text: 'GraphLinq Interface', link: 'https://app.graphlinq.io' }, { text: 'Protocol LitePaper', link: 'https://graphlinq.io/litepaper.pdf' },
     { text: 'Github', link: 'https://github.com/GraphLinq' }],
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://graphlinq.io'>Home</a><div class='greenCircle'></div><a href='https://app.graphlinq.io'>App</a><div class='greenCircle'></div><a href='https://ide.graphlinq.io'>IDE</a>",
+      "",
   },
   siteMetadata: {
     title: 'GraphLinq Documentation',
     description: 'GraphLinq Engine Protocol full documentation',
     ogImage: null,
     docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    favicon: 'https://ide.graphlinq.io/favicon.7b6c2325.png',
   },
   pwa: {
     enabled: true, // disabling this will also remove the existing service worker.

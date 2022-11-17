@@ -1,10 +1,21 @@
 ---
-title: "Protocol Roadmap"
+title: "GraphLinq Protocol Roadmap"
 metaTitle: "GraphLinq Docs - Roadmap"
-metaDescription: "The automation of decentralized datas monitorization and external executions over multi-chains applications. "
+metaDescription: "Roadmap for the GraphLinq project."
 ---
 
-The project roadmap is subject to change-over-time since DAO governance will have a weight in the decisions over the roadmap progress and will therefore decide the goals and continuous development.
+The project roadmap is subject to change-over-time when DAO governance is enabled. The DAO will not launch until the new Proof of Stake blockchain is launched. At that time decisions over the roadmap, the project's goals, and the ongoing continuous development will become subject to community voting.
+
+## Q1 2023
+
+## Q2 2023
+
+## Q3 2023
+
+## Q4 2023
+
+
+## 2022
 
 ### Q1 2022 (Draft v2)
 

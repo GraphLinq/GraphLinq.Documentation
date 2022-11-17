@@ -3,16 +3,17 @@ import { connectSearchBox } from 'react-instantsearch-dom';
 
 import styled from '@emotion/styled';
 import { css } from '@emotion/react';
-import { Search } from '@styled-icons/fa-solid/Search';
+//import { Search } from '@styled-icons/fa-solid/Search';
 
-const SearchIcon = styled(Search)`
-  width: 1em;
-  pointer-events: none;
-  margin-right: 10px;
-  position: absolute;
-  left: 15px;
-  color: #2fd2c5;
-`;
+//const SearchIcon = styled(Search)`
+//  width: 1em;
+//  pointer-events: none;
+//  margin-right: 10px;
+//  position: absolute;
+//  left: 15px;
+//  color: #2fd2c5;
+//`;
+const SearchIcon = "";
 
 const focus = (props) => css`
   background: white;

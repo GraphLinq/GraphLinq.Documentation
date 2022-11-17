@@ -32,14 +32,28 @@ A node (blocks) is what graphs are made of, it describes the structure of your e
 
 This means that you can launch on the Engine a set of blocks that automate a task without coding any of the business logic needed. To avoid having an overwhelm or a congested network we have to apply fees for execution (known as GAS on Ethereum network) each block type has a different cost of execution within its Cycle optimized by the network and CPU consumed by itself.
 
-# Our founders, Behind GraphLinq
-At GraphLinq, we believe that an extraordinary team focused on the same objectives can build and change the future of the crypto-market, that is our founder's missions,
-helping blockchains be more accessible to everyone.
+# Team
+
+<fieldset>
+<div style="padding:50px;margin:auto;text-align:center;">
+<p><h4>John R. Bussiculo (known as jr00t)</h4><br/>
+CEO </p>
+<img src="https://graphlinq.io/docs-images/john.jpg"
+     style="border-radius:100px;margin-bottom:30px;max-width:200px;" />
+     
+<p>Connect on <a target="_blank" href="https://www.linkedin.com/in/john-r-bussiculo-92361b1b3/">LinkedIn</a><br/>
+Check out John's <a target="_blank" href="https://github.com/jrbgit">Github repositories</a></p>
+<div class="max-width:350px;display:block;text-align:justify;">John is a Full-Stack Developer and Software Engineer for the GraphLinq Platform. His passion for new technologies and blockchain projects is always evolving to meet the changing demands of the cryptocurrency industry.<br/>
+He enjoys teaching others as well as speaking to a wide audience about the advantages of blockchains and new projects.
+<p>Located in <i>New York, US.</i></p></div>
+</div>
+</fieldset>
+<br/>
 
 <fieldset>
 <div style="padding:50px;margin:auto;text-align:center;">
 <p><h4>Frederick Marinho</h4><br/>
-CEO, Co-Founder</p>
+Project Advisor, Co-Founder</p>
 <img src="https://graphlinq.io/docs-images/frederick.jpg"
      style="border-radius:100px;margin-bottom:30px;" />
      
@@ -81,25 +95,8 @@ Marketing Executive</p>
 
 <fieldset>
 <div style="padding:50px;margin:auto;text-align:center;">
-<p><h4>John R. Bussiculo (known as jr00t)</h4><br/>
-CTO </p>
-<img src="https://graphlinq.io/docs-images/john.jpg"
-     style="border-radius:100px;margin-bottom:30px;max-width:200px;" />
-     
-<p>Connect on <a target="_blank" href="https://www.linkedin.com/in/john-r-bussiculo-92361b1b3/">LinkedIn</a><br/>
-Check out John's <a target="_blank" href="https://github.com/jrbgit">Github repositories</a></p>
-<div class="max-width:350px;display:block;text-align:justify;">John is a Full-Stack Developer and Software Engineer for the GraphLinq Platform. His passion for new technologies and blockchain projects is always evolving to meet the changing demands of the cryptocurrency industry.<br/>
-He enjoys teaching others as well as speaking to a wide audience about the advantages of blockchains and new projects.
-<p>Located in <i>New York, US.</i></p></div>
-</div>
-</fieldset>
-<br/>
-
-
-<fieldset>
-<div style="padding:50px;margin:auto;text-align:center;">
 <p><h4>Rishabh Anand</h4><br/>
-Chief Marketing Officer</p>
+Director Of Strategic Partnerships</p>
 <img src="https://graphlinq.io/docs-images/rishabh.jpg"
      style="border-radius:100px;margin-bottom:30px;max-width:200px;" />
      
@@ -174,4 +171,8 @@ Partnership Advisors</p>
 </fieldset>
 
 <br/>
+# Our founders, Behind GraphLinq
+At GraphLinq, we believe that an extraordinary team focused on the same objectives can build and change the future of the crypto-market, that is our founder's missions,
+helping blockchains be more accessible to everyone.
+
 <small>If you are interested in joining us, please contact us at contact@graphlinq.io.</small>
