@@ -4,7 +4,7 @@ metaTitle: "GraphLinq Docs - Replace String in String"
 metaDescription: "Description of Replace String in String blocks"
 ---
 `Replace String in String` blocks allow us to replace all instances of a specific substring found within some string with a third string. They have three inputs: "Original" is the main string, "ToReplace" is the substring that we are searching for within "Original", and "ReplaceText" is the string that we want to replace every instance of "ToReplace" with. <p/>
-`Replace String in String` blocks are commonly used to add some data that is acquired or calculated during runtime to some kind of message tempate, as we do here:<p/>
+`Replace String in String` blocks are commonly used to add some data that is acquired or calculated during runtime to some kind of message template, as we do here:<p/>
 <center>
 <img src="https://i.imgur.com/Cvk90bE.png"
      style="margin-bottom:10px;" />

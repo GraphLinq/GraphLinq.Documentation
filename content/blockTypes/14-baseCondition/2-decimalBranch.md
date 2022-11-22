@@ -12,4 +12,4 @@ metaDescription: "Description of Decimal Branch blocks"
 </center>
 
 In the example above, we use a `Timer` block to check the price of XLM on CoinGecko once an hour. Using a `Decimal Branch` block, we check to see if the price of XLM is below $0.20. If it is, we print a message to the logs with a <a href="/blockTypes/5-log/1-print"> `Print`</a> block.<p/>
-The <a href="/blockTypes/5-log/1-print"> `Print`</a> block at the end is a placeholder example. In a more fleshed out scenario, a graph that is checking for a price crash like this might send a phone notification, or even execute a trade on Binance. 
+The <a href="/blockTypes/5-log/1-print"> `Print`</a> block at the end is a placeholder example. In a more fleshed out scenario, a graph that is checking for a price crash like this might send a phone notification, or even execute a trade on Binance.

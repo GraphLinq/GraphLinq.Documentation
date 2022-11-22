@@ -5,14 +5,14 @@ metaDescription: "Description of Multiply A * B blocks"
 ---
 `Multiply A * B` blocks simply multiply two given numbers together and then output the result.
 
-`Multiply A * B` blocks have two input parameters called "A" and "B". These are, of course, the two numbers we want to multiply together. Note that these input parameters can be supplied with any type of numeric data (decimal, integer, long), and the two data types do not need to match (ie: you can multiply a decimal value by an integer value).
+`Multiply A * B` blocks have two input parameters called "A" and "B". These are, of course, the two numbers we want to multiply together. Note that these input parameters can be supplied with any type of numeric data (decimal, integer, long), and the two data types do not need to match (i.e.: you can multiply a decimal value by an integer value).
 
 As with all block types in the <a href="/blockTypes/8-math"> `Math`</a> category, `Multiply A * B` blocks are non-executive blocks, which means that they have no yellow connectors, and thus they are never called explicitly by other blocks, and they themselves cannot call other blocks. Instead, they are called implicitly whenever their output is required as an input by some other block that is executing. We can observe this happening in the example below.
 
 <center>
 <img src="https://i.imgur.com/uEE7sJF.png"
      style="margin-bottom:10px;" />
-</center> 
+</center>
 
 In this example, when our graph is run, it will print the current gas price of a simple ETH transaction into the logs.
 

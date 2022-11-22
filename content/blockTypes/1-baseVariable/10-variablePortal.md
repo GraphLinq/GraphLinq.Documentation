@@ -12,5 +12,5 @@ The following graph uses a Telegram bot to listen for the command "/maticprice",
      style="margin-bottom:10px;" />
 </center> 
 
-The `Variable Portal` blocks in this example are receiving references to the Telegram channel and Telegram bot that heard the command, and then passing those references along to the `Send Telegram Message` block at the end of the graph, so that the reply is made by the same bot and in the same channel as the command occured.<p/>
+The `Variable Portal` blocks in this example are receiving references to the Telegram channel and Telegram bot that heard the command, and then passing those references along to the `Send Telegram Message` block at the end of the graph, so that the reply is made by the same bot and in the same channel as the command occurred.<p/>
 We could simply skip the `Variable Portal` blocks and instead pass that data directly from the `Telegram Bot` and `On Telegram Message` blocks to the `Send Telegram Message` block. The consequence of this would be that those two dotted white lines would pass through the middle of all our other blocks, making our graph more visually confusing.

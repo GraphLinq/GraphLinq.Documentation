@@ -12,20 +12,20 @@ Here is the simplest possible use of a `Print` block, in which we are recording 
 <center>
 <img src="https://i.imgur.com/30f3Npq.png"
      style="margin-bottom:10px;" />
-</center> 
+</center>
 
 This would result in the following time-stamped message appearing in the terminal at the bottom right of the IDE:<p/>
 
 <center>
 <img src="https://i.imgur.com/HRI4Uiq.png"
      style="margin-bottom:10px;" />
-</center> 
+</center>
 
 You can access the full logs for your graph by clicking on the "View Logs" button for your graph on the "My Graphs" page in the interface:<p/>
 <center>
 <img src="https://i.imgur.com/alIy2q8.png"
      style="margin-bottom:10px;" />
-</center> 
+</center>
 
 The following is a more involved example in which `Print` blocks are being used to record a note in the logs each time certain commands are detected in a Telegram channel:<p/>
 <center>

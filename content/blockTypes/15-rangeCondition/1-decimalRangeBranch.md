@@ -23,4 +23,3 @@ The example above is driven by the `Timer` block, which fires every 60 seconds. 
 If the price is above the upper bound, then our Telegram bot will send the message "ADA has broken above $2.00!" to our Telegram channel using a `Send Telegram Message` block and a `Telegram Bot` block. If the price is below the lower bound, then our Telegram bot will send the message "ADA has fallen below $1.00!" to our Telegram channel.
 
 If the price of ADA is inside the range, then the flow of execution will end at the `Decimal Range Branch` block, and our graph will wait for the `Timer` block to fire again a minute later.
-

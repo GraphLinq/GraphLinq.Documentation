@@ -21,5 +21,5 @@ NET Core is used to create server applications that run on Windows, Linux and Ma
 Infura / Ethereum Node:<br/>
 Infura provides the tools and infrastructure that allow developers to easily take their blockchain application from testing to scaled deployment - with simple, reliable access to Ethereum and IPFS.
 
-MariaDB is used as database storage to authentify and save datas about deployed graphs and costs.
+MariaDB is used as database storage to authenticate and save data about deployed graphs and costs.
 Redis is the storage engine which is used when a graph ask to save a key/value store.

@@ -22,7 +22,7 @@ One of the most common use cases for storing our data in variables is when we wa
      style="margin-bottom:10px;" />
 </center>
 
-In the example above, we use a `Set variable` block to declare a variable called "binanceConnector", and then assign to that variable the value of a `Binance Connector` block that has been set up with our API key and secret. Whenever we need a Binance connector later in our graph (for example to place orders on Binance), we can use this same connector by accessing our "binanceConnector" variable with a <a href="/blockTypes/1-baseVariable/7-getVariable"> `Get variable`</a> block.<p/>       
+In the example above, we use a `Set variable` block to declare a variable called "binanceConnector", and then assign to that variable the value of a `Binance Connector` block that has been set up with our API key and secret. Whenever we need a Binance connector later in our graph (for example to place orders on Binance), we can use this same connector by accessing our "binanceConnector" variable with a <a href="/blockTypes/1-baseVariable/7-getVariable"> `Get variable`</a> block.<p/>
 
 The next example is more complicated, but it's noteworthy in that it actually requires use of the `Set variable` and <a href="/blockTypes/1-baseVariable/7-getVariable"> `Get variable`</a> blocks to achieve its purpose:<p/>
 <center>

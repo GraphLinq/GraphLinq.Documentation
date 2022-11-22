@@ -13,7 +13,7 @@ The "EmoteName" parameter should be passed a string block containing the actual 
 
 `On Reaction Added Message` blocks also output a piece of data called "UserId", which is an identifier for the user who made the emoji reaction. This can be used for other blocks that require a Discord user ID as input, like the <a href="/blockTypes/39-discord/2-addRoleUser"> `Add Role User`</a> block in the example below.
 
-In the following example, we use an `On Reaction Added Message` block to help us build a simple captcha tool. The Discord channel in this example would be a sort of captcha waiting room which new server members would need to get past in order to acces the rest of the server.
+In the following example, we use an `On Reaction Added Message` block to help us build a simple captcha tool. The Discord channel in this example would be a sort of captcha waiting room which new server members would need to get past in order to access the rest of the server.
 
 <center>
 <img src="https://i.imgur.com/RjgkEaZ.png"
