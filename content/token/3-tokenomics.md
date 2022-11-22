@@ -1,7 +1,7 @@
 ---
 title: "GLQ Tokenomics And Wallets"
 metaTitle: "GraphLinq Docs - Tokenomics"
-metaDescription: "The automation of decentralized datas monitorization and external executions over multi-chains applications."
+metaDescription: "The automation of decentralized data monitorization and external executions over multi-chains applications."
 ---
 
 The total token supply is 500 M, with the according set prices:

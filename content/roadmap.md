@@ -74,8 +74,7 @@ The project roadmap is subject to change-over-time when DAO governance is enable
 - Deploying Uniswap Pool for the GraphLinq Token with the Unicrypt public presale to kickstart the asset liquidity to reach an approximate
  valorization of 700,000$ and initializing the token launch price at ~ 0.004$ with a token supply of 500.000.000.
 - Coding and Releasing the GraphLinq Pay contract to buy GLQ directly through the dashboard based on Uniswap token price.
-- Improving the engine accessibility and extend the ecosystem over multi-blockchain connectors and more exchanges data streams (Polkadot, Binance Smart Chain,
-Elrond Network.., extending Defi and adding Cefi Datas).
+- Improving the engine accessibility and extend the ecosystem over multi-blockchain connectors and more exchanges data streams (Polkadot, Binance Smart Chain, Elrond Network.., extending Defi and adding Central Exchange Data).
 - Releasing the Mainnet for the Engine protocol with based configured blocks price customized on the current GLQ market growth and price.
 
 ### Q3 2021
