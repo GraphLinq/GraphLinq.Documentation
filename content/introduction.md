@@ -1,19 +1,22 @@
 ---
 title: "GraphLinq Introduction"
 metaTitle: "GraphLinq Docs - Introduction"
-metaDescription: "The automation of decentralized data, monitoring, and external executions over multi-chain applications. "
+metaDescription: "The automation of decentralized data, monitoring, and external executions over multi-chain applications."
 ---
 
 The goal of GraphLinq is to provide a way to interact with the blockchain and with any connected system as effortlessly as possible, all without knowing how to code.
 
-Setting up bots, or basic scripted logic, arbitrages on DEX or trading on a centralized exchange, we build the tools that help the decentralization adoption, every business has logic that can be automated, we make it possible through monitoring and execution over multi-blockchains data.
+GraphLinq can be used however your imagination can dream however here are a few ideas: setting up bots, basic scripted logic, arbitrages on decentralized exchanges (DEX), or trading on a centralized exchange (CEX). GraphLinq is building the tools that will aid in the adoption of decentralization. We believe that every business has logic that can be automated and we make it possible through monitoring and execution over multi-blockchain data. Because the cost and ease of use to accomplish powerful tasks is so low, GraphLinq is also a powerful tool for the average user or the business entrepreneur building tomorrows decentralized application.
 
-In this documentation, you will find the basic knowledge of the GraphLinq Protocol and will get a better idea of how things work.
+In this documentation you will find the basic knowledge of the GraphLinq Protocol and will get a better idea of how things work.
 
-# What exactly Graphlinq is and what is our vision?
-GraphLinq is a set of tools including an IDE and an engine that run simultaneously with multiple blockchains and centralized data stream to offer a service of automatization of a process without coding skill required.
+# What is Graphlinq?
+
+GraphLinq is a set of tools including an IDE and an Engine that run simultaneously with multiple blockchains and centralized data streams to offer a service of process automatization without any coding skills required.
 
 You can use the GLQ Token (ERC-20 Ethereum Token) to run a graph on our test net or our main net to execute different processes over the blockchain to automate your tasks, watching easily Binance Smart Chain, Ethereum transactions, triggering events, or doing conditional regular expression is possible with only a few nodes.
+
+# What is our vision?
 
 We believe that a lot of the job tasks run on mainstream crypto projects can be automated and generated with node graphs, so that the data can be listened to, triggered, and saved to a safe place accessible for maintaining service from an off-chain side, with the fewer fees and complexity.
 

@@ -9,24 +9,24 @@ const config = {
     logo: 'https://graphlinq.io/template/img/logo.svg',
     logoLink: 'https://docs.graphlinq.io',
     title:
-      "<a href='https://docs.graphlinq.io'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
-    githubUrl: 'https://github.com/GraphLinq/GraphLinq',
+      "<a href='https://docs.graphlinq.io'><img class='img-responsive' src='https://betatest.jr00t.com/learn-logo.svg' alt='Learn logo' /></a>",
+    githubUrl: 'https://github.com/GraphLinq/GraphLinq.Engine',
     helpUrl: '',
     tweetText: '',
     social: `<li>
-		    <a href="https://twitter.com/graphlinq_proto" target="_blank" rel="noopener">
-		      <div class="twitterBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>
-		      </div>
-		    </a>
-		  </li>
-			<li>
-		    <a href="https://t.me/graphlinq" target="_blank" rel="noopener">
-		      <div class="discordBtn">
+        <a href="https://twitter.com/graphlinq_proto" target="_blank" rel="noopener">
+          <div class="twitterBtn">
+            <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="https://t.me/graphlinq" target="_blank" rel="noopener">
+          <div class="discordBtn">
             <img src='https://betatest.jr00t.com/telegram-brands-block.svg' alt={'Telegram'}/>
-		      </div>
-		    </a>
-		  </li>`,
+          </div>
+        </a>
+      </li>`,
     links: [{ text: '', link: '' }],
     search: {
       enabled: false,
@@ -50,10 +50,20 @@ const config = {
       '/codeblock',
     ],
     collapsedNav: [
+      '/wallet',
+      '/token',
+      '/dashboard',
+      '/blocks',
+      '/blockTypes',
+      '/graph',
+      '/engine',
       '/codeblock', // add trailing slash if enabled above
     ],
     links: [
-      { text: 'GraphLinq Interface', link: 'https://app.graphlinq.io' },
+      { text: 'GraphLinq App Interface', link: 'https://app.graphlinq.io' },
+      { text: 'GraphLinq Analytics', link: 'https://analytics.graphlinq.io' },
+      { text: 'GraphLinq IDE', link: 'https://ide.graphlinq.io' },
+      { text: 'GraphLinq Marketplace', link: 'https://marketplace.graphlinq.io' },
       { text: 'Protocol LitePaper', link: 'https://graphlinq.io/litepaper.pdf' },
       { text: 'Github', link: 'https://github.com/GraphLinq' },
     ],

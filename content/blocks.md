@@ -1,7 +1,7 @@
 ---
-title: "Block Overview"
-metaTitle: "Overview of Blocks"
-metaDescription: "Explanation about how to use blocks over the GraphLinq Protocol"
+title: "IDE Block Overview"
+metaTitle: "Overview of IDE Blocks"
+metaDescription: "Explanation about how to use blocks in the GraphLinq IDE"
 ---
 
 A node or block is a point in a network or diagram at which lines or pathways intersect.

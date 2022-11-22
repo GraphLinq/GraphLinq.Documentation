@@ -14,6 +14,7 @@ The project roadmap is subject to change-over-time when DAO governance is enable
 
 ## Q4 2023
 
+---
 
 ## 2022
 
