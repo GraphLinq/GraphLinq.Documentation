@@ -13,4 +13,4 @@ while it is unlimited on the main-net and only need a balance cover-up in the en
 From a coding perspective, the engine is developed and maintained into .net core 3.1 (known as C# language) which allow for a fast execution and a
 cross-compatibility over any exploitation system.
 
-<a href="https://github.com/GraphLinq/GraphLinq.Engine">> Github open source repo of the Engine</a>
+<a href="https://github.com/GraphLinq/GraphLinq.Engine">> GitHub open source repo of the Engine</a>

@@ -77,5 +77,5 @@ Elrond Network.., extending Defi and adding Cefi Datas).
 - Releasing the Market place and offers rewards for the first templates developed and added through the web app.
 - Migrating the DAO Aragon Governance over the POS GraphLinqChain.
 - The GraphLinq Chain will allow safe and decentralized actions through the Engine, releasing libraries to directly execute multi-transaction over a graph
-on multiple chains with custom wallet on blocks (ethereum, binance smart chain)...
+on multiple chains with custom wallet on blocks (Ethereum, Binance Smart Chain)...
 - Integration of a Lua virtual machine on the Engine handler to offer even more flexibility on graph creation and development.

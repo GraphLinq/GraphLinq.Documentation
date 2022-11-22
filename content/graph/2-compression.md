@@ -5,8 +5,8 @@ metaDescription: "Graphs compression details"
 ---
 
 Graphs saved are compressed in a specific format to assure reliability, security and authenticity.
-The raw json payload is converted using the gzip compression protocol:<br/>
-GZip is a form of data compression -- ie it takes a chunk of data and makes it smaller. The original data can be restored by un-zipping the compressed file.
+The raw JSON payload is converted using the gzip compression protocol:<br/>
+GZip is a form of data compression -- i.e. it takes a chunk of data and makes it smaller. The original data can be restored by un-zipping the compressed file.
 
 It's then converted to base64 bytes code so that it is easily shareable to anyone.
 You can send your GLQ file to anyone and they will be able to execute it as part of one new Graph, and modify it.

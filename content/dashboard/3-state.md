@@ -4,7 +4,7 @@ metaTitle: "GraphLinq Docs - Managing Graph State"
 metaDescription: "Explain how to manage your graph state on the dashboard"
 ---
 
-Once you deployed a graph on the interface, you can update it's state easily using the interface, it will be instantly sent and executed over the engine network -> 
+Once you deployed a graph on the interface, you can update it's state easily using the interface, it will be instantly sent and executed over the engine network ->
 
 <center>
 <img src="https://graphlinq.io/docs-images/deploy_2.png"

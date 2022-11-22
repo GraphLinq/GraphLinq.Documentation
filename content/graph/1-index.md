@@ -1,13 +1,13 @@
 ---
 title: "Graph Creation"
-metaTitle: "GraphLinq Docs - Graphs Creation"
-metaDescription: "Explaination about how to create a graph on GraphLinq Protocol"
+metaTitle: "GraphLinq Docs - Graph Creation"
+metaDescription: "How to create a graph on GraphLinq Protocol"
 ---
 
 To create a new graph, you can use our <a href="https://www.codecademy.com/articles/what-is-an-ide">IDE</a> available as a webapp on <a href="https://ide.graphlinq.io">ide.graphlinq.io</a>
 or by downloading the Windows desktop app version on  <a href="https://download.graphlinq.io/desktop.exe">download.graphlinq.io/desktop.exe</a>
 
-Once you're on the IDE, click on `File` on the top menu to create your first graph -> 
+Once you're on the IDE, click on `File` on the top menu to create your first graph ->
 
 <center>
 <img src="https://graphlinq.io/docs-images/graph-create-1.png"
@@ -16,7 +16,7 @@ Once you're on the IDE, click on `File` on the top menu to create your first gra
 
 Wait for the message `Initialize new empty graph` appearing in the console, then you can start to add a new block over the graph canvas ( the right side )
 
-Select an Ethereum Connector block in the list to add it into the graph -> 
+Select an Ethereum Connector block in the list to add it into the graph ->
 
 <center>
 <img src="https://graphlinq.io/docs-images/graph-create-2.png"

@@ -27,4 +27,4 @@ We will use the Aragon protocol which is is the fastest and easiest way to set u
 You can browse to the list of organization and the future GraphLinq one on <a href="https://client.aragon.org/#/">client.aragon.org</a> to vote and give your
 voice a matter over the next steps for GraphLinq advancements.
 
-<a href="https://client.aragon.org/#/">> GraphLinq Aragon Organization Url</a>
+<a href="https://client.aragon.org/#/">> GraphLinq Aragon Organization URL</a>

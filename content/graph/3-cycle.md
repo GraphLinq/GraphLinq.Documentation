@@ -6,11 +6,11 @@ metaDescription: "Explain how cycle costs works"
 
 As you saw in the previous page, a graph has a direct path between its start and the end of the execution, event triggers such as Connector blocks can create new events that trigger a new graph cycle.
 
-Easier: Every block that starts a new trigger, from event or time-based, will init a new execution cycle that will occur more blocks of nodes and can create new cycles of nodes depending on your execution path of that cycle.
+Easier: Every block that starts a new trigger, from event or time-based, will initialize a new execution cycle that will occur more blocks of nodes and can create new cycles of nodes depending on your execution path of that cycle.
 
 Since every block type has a fixed GAS as GLQ price you can directly now calculate the estimated cost for running a specific task on a Graph.
 
-But be careful: since you can have an infinite number of cycles regardings the starting point that you have set (events, triggers, conditions..) the estimated fixed price is not the same as the dynamic that will depend on the number of times you're event get triggered.
+But be careful: since you can have an infinite number of cycles regarding the starting point that you have set (events, triggers, conditions..) the estimated fixed price is not the same as the dynamic that will depend on the number of times you're event get triggered.
 
 A more concrete example with a random block price: If you watch every new block coming from the Ethereum Blockchain then add a Twitter message every time it occurs with the base Twitter block costing 1 GLQ at each execution, your graph price will get raised by 1 GLQ every 13 seconds (average eth block time).
 

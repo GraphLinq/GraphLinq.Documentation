@@ -4,8 +4,7 @@ metaTitle: "GraphLinq Docs - Connector Type"
 metaDescription: "Describe what connector type is about"
 ---
 
-Connector node types are node connected flux stream over different type of networks, decentralized and centralized such as 
-websocket, tcp connections or UDP fluxs.
+Connector node types are node connected flux stream over different type of networks, decentralized and centralized such as web sockets, TCP connections or UDP flux.
 
 Current deployed connector type list over the Engine network:<br/>
 

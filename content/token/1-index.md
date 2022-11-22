@@ -9,10 +9,10 @@ You can get the GLQ token through <a href="https://app.uniswap.org/#/swap?inputC
 
 Matic network:<br/>
 You can get the GLQ token through <a href="https://swap.smartdex.app/">Smartdex swap application</a>.
-You can swap your GLQ eth token to the matic version (reversible) through <a href="https://wallet.matic.network/bridge/">Matic bridge</a>.
+You can swap your GLQ eth token to the Matic version (reversible) through <a href="https://wallet.matic.network/bridge/">Matic bridge</a>.
 
 ILO*:<br/>
 Initial Liquidity Offerings (ILOs) allow projects to raise funds through selling tokens on decentralized exchanges without having to undergo an ICO.
 
 
-<a href="https://info.uniswap.org/token/0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24">> Uniswap infos GLQ token</a> <br/>
+<a href="https://info.uniswap.org/token/0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24">> Uniswap info GLQ token</a> <br/>
