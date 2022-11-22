@@ -75,7 +75,7 @@ const config = {
     title: 'GraphLinq Documentation',
     description: 'GraphLinq Engine Protocol full documentation',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
+    docsLocation: 'https://github.com/GraphLinq/GraphLinq.Documentation/blob/main/content',
     favicon: 'https://ide.graphlinq.io/favicon.7b6c2325.png',
   },
   pwa: {

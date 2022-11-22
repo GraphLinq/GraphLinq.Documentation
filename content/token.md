@@ -1,7 +1,7 @@
 ---
 title: "GLQ Asset"
 metaTitle: "Overview of the GLQ token"
-metaDescription: "Basic about the GraphLinq Token"
+metaDescription: "Basic information about the GraphLinq Token"
 ---
 
 GLQ is the symbol for the ERC-20 token of GraphLinq deployed on the Ethereum chain. It's the token used for every financial transactions on the protocol and community needs.

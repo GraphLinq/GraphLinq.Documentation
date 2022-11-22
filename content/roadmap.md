@@ -6,13 +6,27 @@ metaDescription: "Roadmap for the GraphLinq project."
 
 The project roadmap is subject to change-over-time when DAO governance is enabled. The DAO will not launch until the new Proof of Stake blockchain is launched. At that time decisions over the roadmap, the project's goals, and the ongoing continuous development will become subject to community voting.
 
-## Q1 2023
+## 2023
 
-## Q2 2023
+### Q1 2023
 
-## Q3 2023
+- item
+- item
 
-## Q4 2023
+### Q2 2023
+
+- item
+- item
+
+### Q3 2023
+
+- item
+- item
+
+### Q4 2023
+
+- item
+- item
 
 ---
 
