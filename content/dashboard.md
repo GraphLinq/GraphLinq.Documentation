@@ -9,4 +9,4 @@ The dashboard is the interface connected to your wallet and the engine Mainnet n
 You can also buy the GLQ token automatically through the interface and manage your balance for the costs of your running graphs, make
 deposit and withdrawal request from the Ethereum smart-contract.
 
-<a href="https://github.com/GraphLinq/GraphLinq.IDE">> GitHub open source repo of the Interface</a>
+<a href="https://github.com/GraphLinq/GraphLinq.IDE">> GitHub open source repo of the GraphLinq App Interface</a>

@@ -24,4 +24,4 @@ You will receive 10 GLQ back to your wallet address but 20 GLQ will be deducted 
 On the contrary if you have to pay 20 GLQ as fees and request a withdrawal of 20 GLQ on a total of 25 GLQ balance:<br/>
 20 GLQ will be deducted from your contract balance and will be burned forever from the total supply. You will receive 5 GLQ back.
 
-<a href="https://github.com/GraphLinq/GraphLinq.EngineDepositorContract">> GitHub open source repo of the balance contract</a>
+<a href="https://github.com/GraphLinq/GraphLinq.EngineDepositorContract">> GitHub open source repo of the GraphLinq Engine Depositor contract</a>

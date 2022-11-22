@@ -47,7 +47,6 @@ const config = {
       '/blockTypes',
       '/graph',
       '/engine',
-      '/codeblock',
     ],
     collapsedNav: [
       '/wallet',
@@ -56,8 +55,7 @@ const config = {
       '/blocks',
       '/blockTypes',
       '/graph',
-      '/engine',
-      '/codeblock', // add trailing slash if enabled above
+      '/engine', // add trailing slash if enabled above
     ],
     links: [
       { text: 'GraphLinq App Interface', link: 'https://app.graphlinq.io' },
