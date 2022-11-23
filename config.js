@@ -43,7 +43,6 @@ const config = {
       '/wallet',
       '/token',
       '/dashboard',
-      '/blocks',
       '/blockTypes',
       '/graph',
       '/engine',
@@ -52,7 +51,6 @@ const config = {
       '/wallet',
       '/token',
       '/dashboard',
-      '/blocks',
       '/blockTypes',
       '/graph',
       '/engine', // add trailing slash if enabled above
