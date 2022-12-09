@@ -1,0 +1,11 @@
+--2022-11-24 17:12:55--  https://graphlinq.io/template/img/logo.svg
+Resolving graphlinq.io (graphlinq.io)... 104.21.82.186, 172.67.161.117, 2606:4700:3031::ac43:a175, ...
+Connecting to graphlinq.io (graphlinq.io)|104.21.82.186|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4474 (4.4K) [image/svg+xml]
+Saving to: ‘logo.svg.2’
+
+     0K ....                                                  100% 1.06M=0.004s
+
+2022-11-24 17:12:55 (1.06 MB/s) - ‘logo.svg.2’ saved [4474/4474]
+

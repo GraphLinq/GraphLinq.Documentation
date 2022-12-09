@@ -1,0 +1,21 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.featureSvg:hover {
+
+}
+
+.feathead {
+  margin:auto;
+  padding-top: 40px;
+  text-align: center;
+}

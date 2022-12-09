@@ -1,0 +1,10 @@
+tasks:
+  - name: Install and run GraphLinq docs
+    init: |
+      corepack enable
+      yarn install
+      yarn run build
+    command: yarn run start
+github:
+  prebuilds:
+    pullRequestsFromForks: true
